@@ -196,7 +196,6 @@ scikit-fuzzy==0.4.2
 scikit-learn==0.24.1
 scikit-mobility==1.2.1
 scipy==1.6.0
-Shapely==1.8.5.post1
 six==1.15.0
 sklearn==0.0
 sqlparse==0.4.1
