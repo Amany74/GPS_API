@@ -175,7 +175,6 @@ PyJWT==2.0.1
 pylint==2.7.4
 PyOpenGL==3.1.6
 pyparsing==2.4.7
-pypiwin32==223
 pyproj==3.2.0
 pyrsistent==0.17.3
 python-dateutil==2.8.1
