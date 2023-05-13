@@ -232,4 +232,8 @@ xlrd==2.0.1
 zipp==3.8.0
 zope.event==4.5.0
 zope.interface==5.2.0
-
+seaborn==0.11.1
+matplotlib==3.4.2
+skmob==0.2.1
+tensorflow==2.5.0
+scikit-learn==0.24.2
